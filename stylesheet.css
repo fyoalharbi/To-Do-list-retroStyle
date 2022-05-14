@@ -1,0 +1,47 @@
+@font-face {
+    font-family: retro-gaming;
+    src: url(RetroGaming.ttf);
+}
+.header{
+    background-color: rgb(66, 66, 66);
+    display: grid;
+    
+}
+h2{
+    text-align: center;
+   
+    color: white;
+}
+html{
+    background-color: #ffe4c4;
+    font-family: retro-gaming;
+}
+.container{
+text-align: center;
+
+}
+button{
+    font-family: retro-gaming;
+    color:white;
+    background-color: rgb(66, 66, 66);
+    border: 2px double rgb(66, 66, 66);
+}
+#input{
+    font-family: retro-gaming;
+    background-color: bisque;
+    border: 2px double rgb(66, 66, 66);
+}
+.inst{
+    text-align: right;
+    width: 50%;
+}    
+
+#list{
+    text-align: left;
+}
+.llist{
+    flex-grow: 1;
+}
+.sec{
+    display: flex;
+}
